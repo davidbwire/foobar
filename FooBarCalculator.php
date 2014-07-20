@@ -3,7 +3,7 @@
 /**
  * Description of FooBarCalculator
  *
- * @author David Bwire <israelbwire@gmail.com>
+ * @author David Bwire
  */
 class FooBarCalculator
 {
